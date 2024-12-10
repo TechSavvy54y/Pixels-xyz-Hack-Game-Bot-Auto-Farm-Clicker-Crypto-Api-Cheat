@@ -1,0 +1,2 @@
+D:\GithubNew\13\Pixels\Pixel\Pixel-Bot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\13\Pixels\Pixel\Pixel-Bot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
